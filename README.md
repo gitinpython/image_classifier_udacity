@@ -1,4 +1,4 @@
-# image_classifier_udacity
+# Image_Classifier - Intro to ML with Tensor FLow, Udacity Nanodegree Program
 Create Image Classifier - Intro to ML with Tensor FLow, Udacity Nanodegree Program
 
 This project is associalted with the lesson - Deep Learning (with tensorflow) from the Udacity's Nanodegree program: "Introduction to Machine Learning with Tensorflow".
